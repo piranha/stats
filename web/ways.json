@@ -1,0 +1,1826 @@
+[
+  {
+    "name": "United States", 
+    "area": 9826675.0, 
+    "percapita": 48100.0, 
+    "railways": 224792.0, 
+    "roadways": 6506204.0, 
+    "population": 313847465.0
+  }, 
+  {
+    "name": "Russia", 
+    "area": 17098242.0, 
+    "percapita": 16700.0, 
+    "railways": 87157.0, 
+    "roadways": 982000.0, 
+    "population": 138082178.0
+  }, 
+  {
+    "name": "China", 
+    "area": 9596961.0, 
+    "percapita": 8400.0, 
+    "railways": 86000.0, 
+    "roadways": 3860800.0, 
+    "population": 1343239923.0
+  }, 
+  {
+    "name": "India", 
+    "area": 3287263.0, 
+    "percapita": 3700.0, 
+    "railways": 63974.0, 
+    "roadways": 3320410.0, 
+    "population": 1205073612.0
+  }, 
+  {
+    "name": "Canada", 
+    "area": 9984670.0, 
+    "percapita": 40300.0, 
+    "railways": 46552.0, 
+    "roadways": 1042300.0, 
+    "population": 34300083.0
+  }, 
+  {
+    "name": "Germany", 
+    "area": 357022.0, 
+    "percapita": 37900.0, 
+    "railways": 41981.0, 
+    "roadways": 644480.0, 
+    "population": 81305856.0
+  }, 
+  {
+    "name": "Australia", 
+    "area": 7741220.0, 
+    "percapita": 40800.0, 
+    "railways": 38445.0, 
+    "roadways": 818356.0, 
+    "population": 22015576.0
+  }, 
+  {
+    "name": "Argentina", 
+    "area": 2780400.0, 
+    "percapita": 17400.0, 
+    "railways": 36966.0, 
+    "roadways": 231374.0, 
+    "population": 42192494.0
+  }, 
+  {
+    "name": "France", 
+    "area": 643801.0, 
+    "percapita": 35000.0, 
+    "railways": 29640.0, 
+    "roadways": 951200.0, 
+    "population": 65630692.0
+  }, 
+  {
+    "name": "Brazil", 
+    "area": 8514877.0, 
+    "percapita": 11600.0, 
+    "railways": 28538.0, 
+    "roadways": 1751868.0, 
+    "population": 205716890.0
+  }, 
+  {
+    "name": "Japan", 
+    "area": 377915.0, 
+    "percapita": 34300.0, 
+    "railways": 27182.0, 
+    "roadways": 1210251.0, 
+    "population": 127368088.0
+  }, 
+  {
+    "name": "Ukraine", 
+    "area": 603550.0, 
+    "percapita": 7200.0, 
+    "railways": 21684.0, 
+    "roadways": 169496.0, 
+    "population": 44854065.0
+  }, 
+  {
+    "name": "Italy", 
+    "area": 301340.0, 
+    "percapita": 30100.0, 
+    "railways": 20254.0, 
+    "roadways": 487700.0, 
+    "population": 61261254.0
+  }, 
+  {
+    "name": "South Africa", 
+    "area": 1219090.0, 
+    "percapita": 11000.0, 
+    "railways": 20192.0, 
+    "roadways": 362099.0, 
+    "population": 48810427.0
+  }, 
+  {
+    "name": "Poland", 
+    "area": 312685.0, 
+    "percapita": 20100.0, 
+    "railways": 19428.0, 
+    "roadways": 423997.0, 
+    "population": 38415284.0
+  }, 
+  {
+    "name": "Mexico", 
+    "area": 1964375.0, 
+    "percapita": 15100.0, 
+    "railways": 17166.0, 
+    "roadways": 366095.0, 
+    "population": 114975406.0
+  }, 
+  {
+    "name": "United Kingdom", 
+    "area": 243610.0, 
+    "percapita": 35900.0, 
+    "railways": 16454.0, 
+    "roadways": 394428.0, 
+    "population": 63047162.0
+  }, 
+  {
+    "name": "Spain", 
+    "area": 505370.0, 
+    "percapita": 30600.0, 
+    "railways": 15293.0, 
+    "roadways": 681298.0, 
+    "population": 47042984.0
+  }, 
+  {
+    "name": "Kazakhstan", 
+    "area": 2724900.0, 
+    "percapita": 13000.0, 
+    "railways": 15079.0, 
+    "roadways": 93612.0, 
+    "population": 17522010.0
+  }, 
+  {
+    "name": "Sweden", 
+    "area": 450295.0, 
+    "percapita": 40600.0, 
+    "railways": 11633.0, 
+    "roadways": 572900.0, 
+    "population": 9103788.0
+  }, 
+  {
+    "name": "Romania", 
+    "area": 238391.0, 
+    "percapita": 12300.0, 
+    "railways": 10785.0, 
+    "roadways": 82386.0, 
+    "population": 21848504.0
+  }, 
+  {
+    "name": "Czech Republic", 
+    "area": 78867.0, 
+    "percapita": 25900.0, 
+    "railways": 9469.0, 
+    "roadways": 127797.0, 
+    "population": 10177300.0
+  }, 
+  {
+    "name": "Hungary", 
+    "area": 93028.0, 
+    "percapita": 19600.0, 
+    "railways": 9208.0, 
+    "roadways": 197519.0, 
+    "population": 9958453.0
+  }, 
+  {
+    "name": "Turkey", 
+    "area": 783562.0, 
+    "percapita": 14600.0, 
+    "railways": 8699.0, 
+    "roadways": 352046.0, 
+    "population": 79749461.0
+  }, 
+  {
+    "name": "Cuba", 
+    "area": 110860.0, 
+    "percapita": 9900.0, 
+    "railways": 8598.0, 
+    "roadways": 60858.0, 
+    "population": 11075244.0
+  }, 
+  {
+    "name": "Iran", 
+    "area": 1648195.0, 
+    "percapita": 12200.0, 
+    "railways": 8442.0, 
+    "roadways": 172927.0, 
+    "population": 78868711.0
+  }, 
+  {
+    "name": "Pakistan", 
+    "area": 796095.0, 
+    "percapita": 2800.0, 
+    "railways": 7791.0, 
+    "roadways": 260760.0, 
+    "population": 190291129.0
+  }, 
+  {
+    "name": "Chile", 
+    "area": 756102.0, 
+    "percapita": 16100.0, 
+    "railways": 7082.0, 
+    "roadways": 80505.0, 
+    "population": 17067369.0
+  }, 
+  {
+    "name": "Austria", 
+    "area": 83871.0, 
+    "percapita": 41700.0, 
+    "railways": 6399.0, 
+    "roadways": 110778.0, 
+    "population": 8219743.0
+  }, 
+  {
+    "name": "Sudan", 
+    "area": 1861484.0, 
+    "percapita": 3000.0, 
+    "railways": 5978.0, 
+    "roadways": 11900.0, 
+    "population": 34206710.0
+  }, 
+  {
+    "name": "Finland", 
+    "area": 338145.0, 
+    "percapita": 38300.0, 
+    "railways": 5919.0, 
+    "roadways": 78141.0, 
+    "population": 5262930.0
+  }, 
+  {
+    "name": "Belarus", 
+    "area": 207600.0, 
+    "percapita": 14900.0, 
+    "railways": 5537.0, 
+    "roadways": 94797.0, 
+    "population": 9542883.0
+  }, 
+  {
+    "name": "Korea, North", 
+    "area": 120538.0, 
+    "percapita": 1800.0, 
+    "railways": 5242.0, 
+    "roadways": 25554.0, 
+    "population": 24589122.0
+  }, 
+  {
+    "name": "Egypt", 
+    "area": 1001450.0, 
+    "percapita": 6500.0, 
+    "railways": 5083.0, 
+    "roadways": 65050.0, 
+    "population": 83688164.0
+  }, 
+  {
+    "name": "Indonesia", 
+    "area": 1904569.0, 
+    "percapita": 4700.0, 
+    "railways": 5042.0, 
+    "roadways": 437759.0, 
+    "population": 248216193.0
+  }, 
+  {
+    "name": "Burma", 
+    "area": 676578.0, 
+    "percapita": 1300.0, 
+    "railways": 5031.0, 
+    "roadways": 27000.0, 
+    "population": 54584650.0
+  }, 
+  {
+    "name": "Switzerland", 
+    "area": 41277.0, 
+    "percapita": 43400.0, 
+    "railways": 4876.0, 
+    "roadways": 71454.0, 
+    "population": 7655628.0
+  }, 
+  {
+    "name": "Mozambique", 
+    "area": 799380.0, 
+    "percapita": 1100.0, 
+    "railways": 4787.0, 
+    "roadways": 30331.0, 
+    "population": 23515934.0
+  }, 
+  {
+    "name": "Norway", 
+    "area": 323802.0, 
+    "percapita": 53300.0, 
+    "railways": 4169.0, 
+    "roadways": 93509.0, 
+    "population": 4707270.0
+  }, 
+  {
+    "name": "Bulgaria", 
+    "area": 110879.0, 
+    "percapita": 13500.0, 
+    "railways": 4151.0, 
+    "roadways": 40231.0, 
+    "population": 7037935.0
+  }, 
+  {
+    "name": "New Zealand", 
+    "area": 267710.0, 
+    "percapita": 27900.0, 
+    "railways": 4128.0, 
+    "roadways": 93911.0, 
+    "population": 4327944.0
+  }, 
+  {
+    "name": "Thailand", 
+    "area": 513120.0, 
+    "percapita": 9700.0, 
+    "railways": 4071.0, 
+    "roadways": 180053.0, 
+    "population": 67091089.0
+  }, 
+  {
+    "name": "Congo, Democratic Republic of the", 
+    "area": 2344858.0, 
+    "percapita": 300.0, 
+    "railways": 4007.0, 
+    "roadways": 153497.0, 
+    "population": 73599190.0
+  }, 
+  {
+    "name": "Algeria", 
+    "area": 2381741.0, 
+    "percapita": 7200.0, 
+    "railways": 3973.0, 
+    "roadways": 111261.0, 
+    "population": 35406303.0
+  }, 
+  {
+    "name": "Tanzania", 
+    "area": 947300.0, 
+    "percapita": 1500.0, 
+    "railways": 3689.0, 
+    "roadways": 91049.0, 
+    "population": 43601796.0
+  }, 
+  {
+    "name": "Bolivia", 
+    "area": 1098581.0, 
+    "percapita": 4800.0, 
+    "railways": 3652.0, 
+    "roadways": 13602.0, 
+    "population": 10290003.0
+  }, 
+  {
+    "name": "Uzbekistan", 
+    "area": 447400.0, 
+    "percapita": 3300.0, 
+    "railways": 3645.0, 
+    "roadways": 86496.0, 
+    "population": 28394180.0
+  }, 
+  {
+    "name": "Slovakia", 
+    "area": 49035.0, 
+    "percapita": 23400.0, 
+    "railways": 3622.0, 
+    "roadways": 43761.0, 
+    "population": 5483088.0
+  }, 
+  {
+    "name": "Nigeria", 
+    "area": 923768.0, 
+    "percapita": 2600.0, 
+    "railways": 3505.0, 
+    "roadways": 193200.0, 
+    "population": 170123740.0
+  }, 
+  {
+    "name": "Zimbabwe", 
+    "area": 390757.0, 
+    "percapita": 500.0, 
+    "railways": 3427.0, 
+    "roadways": 97267.0, 
+    "population": 12619600.0
+  }, 
+  {
+    "name": "Korea, South", 
+    "area": 99720.0, 
+    "percapita": 31700.0, 
+    "railways": 3381.0, 
+    "roadways": 103029.0, 
+    "population": 48860500.0
+  }, 
+  {
+    "name": "Serbia", 
+    "area": 77474.0, 
+    "percapita": 10700.0, 
+    "railways": 3379.0, 
+    "roadways": 41913.0, 
+    "population": 7276604.0
+  }, 
+  {
+    "name": "Portugal", 
+    "area": 92090.0, 
+    "percapita": 23200.0, 
+    "railways": 3319.0, 
+    "roadways": 82900.0, 
+    "population": 10781459.0
+  }, 
+  {
+    "name": "Ireland", 
+    "area": 70273.0, 
+    "percapita": 39500.0, 
+    "railways": 3237.0, 
+    "roadways": 96036.0, 
+    "population": 4722028.0
+  }, 
+  {
+    "name": "Belgium", 
+    "area": 30528.0, 
+    "percapita": 37600.0, 
+    "railways": 3233.0, 
+    "roadways": 153595.0, 
+    "population": 10438353.0
+  }, 
+  {
+    "name": "Turkmenistan", 
+    "area": 488100.0, 
+    "percapita": 7500.0, 
+    "railways": 2980.0, 
+    "roadways": 58592.0, 
+    "population": 5054828.0
+  }, 
+  {
+    "name": "Azerbaijan", 
+    "area": 86600.0, 
+    "percapita": 10200.0, 
+    "railways": 2918.0, 
+    "roadways": 59141.0, 
+    "population": 9493600.0
+  }, 
+  {
+    "name": "Netherlands", 
+    "area": 41543.0, 
+    "percapita": 42300.0, 
+    "railways": 2896.0, 
+    "roadways": 136827.0, 
+    "population": 16730632.0
+  }, 
+  {
+    "name": "Angola", 
+    "area": 1246700.0, 
+    "percapita": 5900.0, 
+    "railways": 2764.0, 
+    "roadways": 51429.0, 
+    "population": 18056072.0
+  }, 
+  {
+    "name": "Croatia", 
+    "area": 56594.0, 
+    "percapita": 18300.0, 
+    "railways": 2722.0, 
+    "roadways": 29343.0, 
+    "population": 4480043.0
+  }, 
+  {
+    "name": "Denmark", 
+    "area": 43094.0, 
+    "percapita": 40200.0, 
+    "railways": 2667.0, 
+    "roadways": 73197.0, 
+    "population": 5543453.0
+  }, 
+  {
+    "name": "Vietnam", 
+    "area": 331210.0, 
+    "percapita": 3300.0, 
+    "railways": 2632.0, 
+    "roadways": 180549.0, 
+    "population": 91519289.0
+  }, 
+  {
+    "name": "Namibia", 
+    "area": 824292.0, 
+    "percapita": 7300.0, 
+    "railways": 2626.0, 
+    "roadways": 64189.0, 
+    "population": 2165828.0
+  }, 
+  {
+    "name": "Bangladesh", 
+    "area": 143998.0, 
+    "percapita": 1700.0, 
+    "railways": 2622.0, 
+    "roadways": 239226.0, 
+    "population": 161083804.0
+  }, 
+  {
+    "name": "Greece", 
+    "area": 131957.0, 
+    "percapita": 27600.0, 
+    "railways": 2548.0, 
+    "roadways": 116711.0, 
+    "population": 10767827.0
+  }, 
+  {
+    "name": "Iraq", 
+    "area": 438317.0, 
+    "percapita": 3900.0, 
+    "railways": 2272.0, 
+    "roadways": 44900.0, 
+    "population": 31129225.0
+  }, 
+  {
+    "name": "Latvia", 
+    "area": 64589.0, 
+    "percapita": 15400.0, 
+    "railways": 2239.0, 
+    "roadways": 73074.0, 
+    "population": 2191580.0
+  }, 
+  {
+    "name": "Tunisia", 
+    "area": 163610.0, 
+    "percapita": 9500.0, 
+    "railways": 2165.0, 
+    "roadways": 19232.0, 
+    "population": 10732900.0
+  }, 
+  {
+    "name": "Zambia", 
+    "area": 752618.0, 
+    "percapita": 1600.0, 
+    "railways": 2157.0, 
+    "roadways": 91440.0, 
+    "population": 14309466.0
+  }, 
+  {
+    "name": "Morocco", 
+    "area": 446550.0, 
+    "percapita": 5100.0, 
+    "railways": 2067.0, 
+    "roadways": 58256.0, 
+    "population": 32309239.0
+  }, 
+  {
+    "name": "Kenya", 
+    "area": 580367.0, 
+    "percapita": 1700.0, 
+    "railways": 2066.0, 
+    "roadways": 160886.0, 
+    "population": 43013341.0
+  }, 
+  {
+    "name": "Syria", 
+    "area": 185180.0, 
+    "percapita": 5100.0, 
+    "railways": 2052.0, 
+    "roadways": 68157.0, 
+    "population": 22530746.0
+  }, 
+  {
+    "name": "Peru", 
+    "area": 1285216.0, 
+    "percapita": 10000.0, 
+    "railways": 2020.0, 
+    "roadways": 102887.0, 
+    "population": 29549517.0
+  }, 
+  {
+    "name": "Mongolia", 
+    "area": 1564116.0, 
+    "percapita": 4500.0, 
+    "railways": 1908.0, 
+    "roadways": 49249.0, 
+    "population": 3179997.0
+  }, 
+  {
+    "name": "Malaysia", 
+    "area": 329847.0, 
+    "percapita": 15600.0, 
+    "railways": 1849.0, 
+    "roadways": 98721.0, 
+    "population": 29179952.0
+  }, 
+  {
+    "name": "Lithuania", 
+    "area": 65300.0, 
+    "percapita": 18700.0, 
+    "railways": 1767.0, 
+    "roadways": 81030.0, 
+    "population": 3525761.0
+  }, 
+  {
+    "name": "Uruguay", 
+    "area": 176215.0, 
+    "percapita": 15400.0, 
+    "railways": 1641.0, 
+    "roadways": 77732.0, 
+    "population": 3316328.0
+  }, 
+  {
+    "name": "Georgia", 
+    "area": 69700.0, 
+    "percapita": 5400.0, 
+    "railways": 1612.0, 
+    "roadways": 20329.0, 
+    "population": 4570934.0
+  }, 
+  {
+    "name": "Taiwan", 
+    "area": 35980.0, 
+    "percapita": 37900.0, 
+    "railways": 1580.0, 
+    "roadways": 41475.0, 
+    "population": 23113901.0
+  }, 
+  {
+    "name": "Sri Lanka", 
+    "area": 65610.0, 
+    "percapita": 5600.0, 
+    "railways": 1449.0, 
+    "roadways": 91907.0, 
+    "population": 21481334.0
+  }, 
+  {
+    "name": "Saudi Arabia", 
+    "area": 2149690.0, 
+    "percapita": 24000.0, 
+    "railways": 1378.0, 
+    "roadways": 221372.0, 
+    "population": 26534504.0
+  }, 
+  {
+    "name": "Uganda", 
+    "area": 241038.0, 
+    "percapita": 1300.0, 
+    "railways": 1244.0, 
+    "roadways": 70746.0, 
+    "population": 35873253.0
+  }, 
+  {
+    "name": "Slovenia", 
+    "area": 20273.0, 
+    "percapita": 29100.0, 
+    "railways": 1228.0, 
+    "roadways": 38925.0, 
+    "population": 1996617.0
+  }, 
+  {
+    "name": "Estonia", 
+    "area": 45228.0, 
+    "percapita": 20200.0, 
+    "railways": 1200.0, 
+    "roadways": 58034.0, 
+    "population": 1274709.0
+  }, 
+  {
+    "name": "Moldova", 
+    "area": 33851.0, 
+    "percapita": 3400.0, 
+    "railways": 1190.0, 
+    "roadways": 9343.0, 
+    "population": 3656843.0
+  }, 
+  {
+    "name": "Guinea", 
+    "area": 245857.0, 
+    "percapita": 1100.0, 
+    "railways": 1185.0, 
+    "roadways": 44348.0, 
+    "population": 10884958.0
+  }, 
+  {
+    "name": "Philippines", 
+    "area": 300000.0, 
+    "percapita": 4100.0, 
+    "railways": 995.0, 
+    "roadways": 213151.0, 
+    "population": 103775002.0
+  }, 
+  {
+    "name": "Cameroon", 
+    "area": 475440.0, 
+    "percapita": 2300.0, 
+    "railways": 987.0, 
+    "roadways": 50000.0, 
+    "population": 20129878.0
+  }, 
+  {
+    "name": "Israel", 
+    "area": 20770.0, 
+    "percapita": 31000.0, 
+    "railways": 975.0, 
+    "roadways": 18290.0, 
+    "population": 7590758.0
+  }, 
+  {
+    "name": "Ecuador", 
+    "area": 283561.0, 
+    "percapita": 8300.0, 
+    "railways": 965.0, 
+    "roadways": 43670.0, 
+    "population": 15223680.0
+  }, 
+  {
+    "name": "Ghana", 
+    "area": 238533.0, 
+    "percapita": 3100.0, 
+    "railways": 947.0, 
+    "roadways": 62221.0, 
+    "population": 25241998.0
+  }, 
+  {
+    "name": "Senegal", 
+    "area": 196722.0, 
+    "percapita": 1900.0, 
+    "railways": 906.0, 
+    "roadways": 14008.0, 
+    "population": 12969606.0
+  }, 
+  {
+    "name": "Botswana", 
+    "area": 581730.0, 
+    "percapita": 16300.0, 
+    "railways": 888.0, 
+    "roadways": 25798.0, 
+    "population": 2098018.0
+  }, 
+  {
+    "name": "Congo, Republic of the", 
+    "area": 342000.0, 
+    "percapita": 4600.0, 
+    "railways": 886.0, 
+    "roadways": 17289.0, 
+    "population": 4366266.0
+  }, 
+  {
+    "name": "Colombia", 
+    "area": 1138910.0, 
+    "percapita": 10100.0, 
+    "railways": 874.0, 
+    "roadways": 141374.0, 
+    "population": 45239079.0
+  }, 
+  {
+    "name": "Armenia", 
+    "area": 29743.0, 
+    "percapita": 5400.0, 
+    "railways": 869.0, 
+    "roadways": 8888.0, 
+    "population": 2970495.0
+  }, 
+  {
+    "name": "Madagascar", 
+    "area": 587041.0, 
+    "percapita": 900.0, 
+    "railways": 854.0, 
+    "roadways": 65663.0, 
+    "population": 22585517.0
+  }, 
+  {
+    "name": "Venezuela", 
+    "area": 912050.0, 
+    "percapita": 12400.0, 
+    "railways": 806.0, 
+    "roadways": 96155.0, 
+    "population": 28047938.0
+  }, 
+  {
+    "name": "Malawi", 
+    "area": 118484.0, 
+    "percapita": 900.0, 
+    "railways": 797.0, 
+    "roadways": 15451.0, 
+    "population": 16323044.0
+  }, 
+  {
+    "name": "Macedonia", 
+    "area": 25713.0, 
+    "percapita": 10400.0, 
+    "railways": 699.0, 
+    "roadways": 13736.0, 
+    "population": 2082370.0
+  }, 
+  {
+    "name": "Cambodia", 
+    "area": 181035.0, 
+    "percapita": 2300.0, 
+    "railways": 690.0, 
+    "roadways": 38093.0, 
+    "population": 14952665.0
+  }, 
+  {
+    "name": "Ethiopia", 
+    "area": 1104300.0, 
+    "percapita": 1100.0, 
+    "railways": 681.0, 
+    "roadways": 36469.0, 
+    "population": 93815992.0
+  }, 
+  {
+    "name": "Tajikistan", 
+    "area": 143100.0, 
+    "percapita": 2000.0, 
+    "railways": 680.0, 
+    "roadways": 27767.0, 
+    "population": 7768385.0
+  }, 
+  {
+    "name": "Cote d'Ivoire", 
+    "area": 322463.0, 
+    "percapita": 1600.0, 
+    "railways": 660.0, 
+    "roadways": 80000.0, 
+    "population": 21952093.0
+  }, 
+  {
+    "name": "Gabon", 
+    "area": 267667.0, 
+    "percapita": 16000.0, 
+    "railways": 649.0, 
+    "roadways": 9170.0, 
+    "population": 1608321.0
+  }, 
+  {
+    "name": "Burkina Faso", 
+    "area": 274200.0, 
+    "percapita": 1500.0, 
+    "railways": 622.0, 
+    "roadways": 92495.0, 
+    "population": 17275115.0
+  }, 
+  {
+    "name": "Bosnia and Herzegovina", 
+    "area": 51197.0, 
+    "percapita": 8200.0, 
+    "railways": 601.0, 
+    "roadways": 22926.0, 
+    "population": 4622292.0
+  }, 
+  {
+    "name": "Fiji", 
+    "area": 18274.0, 
+    "percapita": 4600.0, 
+    "railways": 597.0, 
+    "roadways": 3440.0, 
+    "population": 890057.0
+  }, 
+  {
+    "name": "Mali", 
+    "area": 1240192.0, 
+    "percapita": 1300.0, 
+    "railways": 593.0, 
+    "roadways": 18912.0, 
+    "population": 14533511.0
+  }, 
+  {
+    "name": "Togo", 
+    "area": 56785.0, 
+    "percapita": 900.0, 
+    "railways": 568.0, 
+    "roadways": 7520.0, 
+    "population": 6961049.0
+  }, 
+  {
+    "name": "Jordan", 
+    "area": 89342.0, 
+    "percapita": 5900.0, 
+    "railways": 507.0, 
+    "roadways": 7891.0, 
+    "population": 6508887.0
+  }, 
+  {
+    "name": "Kyrgyzstan", 
+    "area": 199951.0, 
+    "percapita": 2400.0, 
+    "railways": 470.0, 
+    "roadways": 34000.0, 
+    "population": 5496737.0
+  }, 
+  {
+    "name": "Benin", 
+    "area": 112622.0, 
+    "percapita": 1500.0, 
+    "railways": 438.0, 
+    "roadways": 16000.0, 
+    "population": 9598787.0
+  }, 
+  {
+    "population": 1836529.0, 
+    "railways": 430.0, 
+    "name": "Kosovo", 
+    "roadways": 1964.0, 
+    "area": 10887.0
+  }, 
+  {
+    "name": "Liberia", 
+    "area": 111369.0, 
+    "percapita": 400.0, 
+    "railways": 429.0, 
+    "roadways": 10600.0, 
+    "population": 3887886.0
+  }, 
+  {
+    "name": "Lebanon", 
+    "area": 10400.0, 
+    "percapita": 15600.0, 
+    "railways": 401.0, 
+    "roadways": 6970.0, 
+    "population": 4140289.0
+  }, 
+  {
+    "name": "Albania", 
+    "area": 28748.0, 
+    "percapita": 7800.0, 
+    "railways": 339.0, 
+    "roadways": 18000.0, 
+    "population": 3002859.0
+  }, 
+  {
+    "name": "Guatemala", 
+    "area": 108889.0, 
+    "percapita": 5000.0, 
+    "railways": 332.0, 
+    "roadways": 14095.0, 
+    "population": 14099032.0
+  }, 
+  {
+    "name": "Eritrea", 
+    "area": 117600.0, 
+    "percapita": 700.0, 
+    "railways": 306.0, 
+    "roadways": 4010.0, 
+    "population": 6086495.0
+  }, 
+  {
+    "name": "Swaziland", 
+    "area": 17364.0, 
+    "percapita": 5200.0, 
+    "railways": 301.0, 
+    "roadways": 3594.0, 
+    "population": 1386914.0
+  }, 
+  {
+    "name": "El Salvador", 
+    "area": 21041.0, 
+    "percapita": 7600.0, 
+    "railways": 283.0, 
+    "roadways": 10886.0, 
+    "population": 6090646.0
+  }, 
+  {
+    "name": "Costa Rica", 
+    "area": 51100.0, 
+    "percapita": 11500.0, 
+    "railways": 278.0, 
+    "roadways": 38049.0, 
+    "population": 4636348.0
+  }, 
+  {
+    "name": "Luxembourg", 
+    "area": 2586.0, 
+    "percapita": 84700.0, 
+    "railways": 275.0, 
+    "roadways": 5227.0, 
+    "population": 509074.0
+  }, 
+  {
+    "name": "Montenegro", 
+    "area": 13812.0, 
+    "percapita": 11200.0, 
+    "railways": 250.0, 
+    "roadways": 7624.0, 
+    "population": 657394.0
+  }, 
+  {
+    "name": "Dominican Republic", 
+    "area": 48670.0, 
+    "percapita": 9300.0, 
+    "railways": 142.0, 
+    "roadways": 19705.0, 
+    "population": 10088598.0
+  }, 
+  {
+    "name": "Djibouti", 
+    "area": 23200.0, 
+    "percapita": 2600.0, 
+    "railways": 100.0, 
+    "roadways": 3065.0, 
+    "population": 774389.0
+  }, 
+  {
+    "name": "Panama", 
+    "area": 75420.0, 
+    "percapita": 13600.0, 
+    "railways": 76.0, 
+    "roadways": 11978.0, 
+    "population": 3510045.0
+  }, 
+  {
+    "name": "Honduras", 
+    "area": 112090.0, 
+    "percapita": 4300.0, 
+    "railways": 75.0, 
+    "roadways": 14239.0, 
+    "population": 8296693.0
+  }, 
+  {
+    "name": "Isle of Man", 
+    "area": 572.0, 
+    "percapita": 35000.0, 
+    "railways": 63.0, 
+    "roadways": 500.0, 
+    "population": 85421.0
+  }, 
+  {
+    "name": "Nepal", 
+    "area": 147181.0, 
+    "percapita": 1300.0, 
+    "railways": 59.0, 
+    "roadways": 17282.0, 
+    "population": 29890686.0
+  }, 
+  {
+    "name": "Saint Kitts and Nevis", 
+    "area": 261.0, 
+    "percapita": 16400.0, 
+    "railways": 50.0, 
+    "roadways": 383.0, 
+    "population": 50726.0
+  }, 
+  {
+    "name": "Paraguay", 
+    "area": 406752.0, 
+    "percapita": 5500.0, 
+    "railways": 36.0, 
+    "roadways": 29500.0, 
+    "population": 6541591.0
+  }, 
+  {
+    "population": 1496.0, 
+    "railways": 18.0, 
+    "name": "Christmas Island", 
+    "roadways": 140.0, 
+    "area": 135.0
+  }, 
+  {
+    "name": "Liechtenstein", 
+    "area": 160.0, 
+    "percapita": 141100.0, 
+    "railways": 9.0, 
+    "roadways": 380.0, 
+    "population": 36713.0
+  }, 
+  {
+    "percapita": 0.0, 
+    "population": 6733620.0, 
+    "name": "Libya", 
+    "roadways": 100024.0, 
+    "area": 1759540.0
+  }, 
+  {
+    "percapita": 2500.0, 
+    "population": 24771809.0, 
+    "name": "Yemen", 
+    "roadways": 71300.0, 
+    "area": 527968.0
+  }, 
+  {
+    "percapita": 26200.0, 
+    "population": 3090150.0, 
+    "name": "Oman", 
+    "roadways": 53430.0, 
+    "area": 309500.0
+  }, 
+  {
+    "percapita": 1000.0, 
+    "population": 30419928.0, 
+    "name": "Afghanistan", 
+    "roadways": 42150.0, 
+    "area": 652230.0
+  }, 
+  {
+    "percapita": 1900.0, 
+    "population": 10975648.0, 
+    "name": "Chad", 
+    "roadways": 40000.0, 
+    "area": 1284000.0
+  }, 
+  {
+    "percapita": 2700.0, 
+    "population": 6586266.0, 
+    "name": "Laos", 
+    "roadways": 39568.0, 
+    "area": 236800.0
+  }, 
+  {
+    "percapita": 16300.0, 
+    "population": 3998905.0, 
+    "name": "Puerto Rico", 
+    "roadways": 26670.0, 
+    "area": 13790.0
+  }, 
+  {
+    "percapita": 800.0, 
+    "population": 5057208.0, 
+    "name": "Central African Republic", 
+    "roadways": 24307.0, 
+    "area": 622984.0
+  }, 
+  {
+    "percapita": 9000.0, 
+    "population": 2889187.0, 
+    "name": "Jamaica", 
+    "roadways": 22121.0, 
+    "area": 10991.0
+  }, 
+  {
+    "percapita": 600.0, 
+    "population": 10085638.0, 
+    "name": "Somalia", 
+    "roadways": 22100.0, 
+    "area": 637657.0
+  }, 
+  {
+    "percapita": 3200.0, 
+    "population": 5727707.0, 
+    "name": "Nicaragua", 
+    "roadways": 19137.0, 
+    "area": 130370.0
+  }, 
+  {
+    "percapita": 800.0, 
+    "population": 17078839.0, 
+    "name": "Niger", 
+    "roadways": 18949.0, 
+    "area": 1267000.0
+  }, 
+  {
+    "percapita": 29100.0, 
+    "population": 1138071.0, 
+    "name": "Cyprus", 
+    "roadways": 14671.0, 
+    "area": 9251.0
+  }, 
+  {
+    "percapita": 1300.0, 
+    "population": 11689696.0, 
+    "name": "Rwanda", 
+    "roadways": 14008.0, 
+    "area": 26338.0
+  }, 
+  {
+    "percapita": 38000.0, 
+    "population": 313183.0, 
+    "name": "Iceland", 
+    "roadways": 12869.0, 
+    "area": 103000.0
+  }, 
+  {
+    "percapita": 400.0, 
+    "population": 10557259.0, 
+    "name": "Burundi", 
+    "roadways": 12322.0, 
+    "area": 27830.0
+  }, 
+  {
+    "percapita": 800.0, 
+    "population": 5485998.0, 
+    "name": "Sierra Leone", 
+    "roadways": 11300.0, 
+    "area": 71740.0
+  }, 
+  {
+    "percapita": 2200.0, 
+    "population": 3359185.0, 
+    "name": "Mauritania", 
+    "roadways": 11066.0, 
+    "area": 1030700.0
+  }, 
+  {
+    "percapita": 2500.0, 
+    "population": 6310129.0, 
+    "name": "Papua New Guinea", 
+    "roadways": 9349.0, 
+    "area": 462840.0
+  }, 
+  {
+    "percapita": 20300.0, 
+    "population": 1226383.0, 
+    "name": "Trinidad and Tobago", 
+    "roadways": 8320.0, 
+    "area": 5128.0
+  }, 
+  {
+    "percapita": 6000.0, 
+    "population": 716896.0, 
+    "name": "Bhutan", 
+    "roadways": 8050.0, 
+    "area": 38394.0
+  }, 
+  {
+    "percapita": 7500.0, 
+    "population": 741908.0, 
+    "name": "Guyana", 
+    "roadways": 7970.0, 
+    "area": 214969.0
+  }, 
+  {
+    "percapita": 102700.0, 
+    "population": 1951591.0, 
+    "name": "Qatar", 
+    "roadways": 7790.0, 
+    "area": 11586.0
+  }, 
+  {
+    "percapita": 1400.0, 
+    "population": 1930493.0, 
+    "name": "Lesotho", 
+    "roadways": 7091.0, 
+    "area": 30355.0
+  }, 
+  {
+    "percapita": 3100.0, 
+    "population": 1201255.0, 
+    "name": "Timor-Leste", 
+    "roadways": 6040.0, 
+    "area": 14874.0
+  }, 
+  {
+    "percapita": 40700.0, 
+    "population": 2646314.0, 
+    "name": "Kuwait", 
+    "roadways": 5749.0, 
+    "area": 17818.0
+  }, 
+  {
+    "percapita": 15000.0, 
+    "population": 260166.0, 
+    "name": "New Caledonia", 
+    "roadways": 5622.0, 
+    "area": 18575.0
+  }, 
+  {
+    "percapita": 2900.0, 
+    "population": 2622544.0, 
+    "name": "West Bank", 
+    "roadways": 5147.0, 
+    "area": 5860.0
+  }, 
+  {
+    "percapita": 9500.0, 
+    "population": 560157.0, 
+    "name": "Suriname", 
+    "roadways": 4304.0, 
+    "area": 163820.0
+  }, 
+  {
+    "percapita": 1200.0, 
+    "population": 9801664.0, 
+    "name": "Haiti", 
+    "roadways": 4160.0, 
+    "area": 27750.0
+  }, 
+  {
+    "percapita": 48500.0, 
+    "population": 5314317.0, 
+    "name": "United Arab Emirates", 
+    "roadways": 4080.0, 
+    "area": 83600.0
+  }, 
+  {
+    "percapita": 27300.0, 
+    "population": 1248348.0, 
+    "name": "Bahrain", 
+    "roadways": 3851.0, 
+    "area": 760.0
+  }, 
+  {
+    "percapita": 2100.0, 
+    "population": 1840454.0, 
+    "name": "Gambia, The", 
+    "roadways": 3742.0, 
+    "area": 11295.0
+  }, 
+  {
+    "percapita": 1100.0, 
+    "population": 1628603.0, 
+    "name": "Guinea-Bissau", 
+    "roadways": 3455.0, 
+    "area": 36125.0
+  }, 
+  {
+    "percapita": 59900.0, 
+    "population": 5353494.0, 
+    "name": "Singapore", 
+    "roadways": 3356.0, 
+    "area": 697.0
+  }, 
+  {
+    "percapita": 25700.0, 
+    "population": 409836.0, 
+    "name": "Malta", 
+    "roadways": 3096.0, 
+    "area": 316.0
+  }, 
+  {
+    "percapita": 8300.0, 
+    "population": 327719.0, 
+    "name": "Belize", 
+    "roadways": 3007.0, 
+    "area": 22966.0
+  }, 
+  {
+    "percapita": 49400.0, 
+    "population": 408786.0, 
+    "name": "Brunei", 
+    "roadways": 2971.0, 
+    "area": 5765.0
+  }, 
+  {
+    "percapita": 19300.0, 
+    "population": 685991.0, 
+    "name": "Equatorial Guinea", 
+    "roadways": 2880.0, 
+    "area": 28051.0
+  }, 
+  {
+    "percapita": 30900.0, 
+    "population": 316182.0, 
+    "name": "Bahamas, The", 
+    "roadways": 2717.0, 
+    "area": 13880.0
+  }, 
+  {
+    "percapita": 18000.0, 
+    "population": 274512.0, 
+    "name": "French Polynesia", 
+    "roadways": 2590.0, 
+    "area": 4167.0
+  }, 
+  {
+    "percapita": 6000.0, 
+    "population": 194320.0, 
+    "name": "Samoa", 
+    "roadways": 2337.0, 
+    "area": 2831.0
+  }, 
+  {
+    "percapita": 49300.0, 
+    "population": 7153519.0, 
+    "name": "Hong Kong", 
+    "roadways": 2067.0, 
+    "area": 1104.0
+  }, 
+  {
+    "percapita": 15000.0, 
+    "population": 1313095.0, 
+    "name": "Mauritius", 
+    "roadways": 2066.0, 
+    "area": 2040.0
+  }, 
+  {
+    "percapita": 2500.0, 
+    "population": 68480.0, 
+    "name": "Marshall Islands", 
+    "roadways": 2028.0, 
+    "area": 181.0
+  }, 
+  {
+    "percapita": 23600.0, 
+    "population": 287733.0, 
+    "name": "Barbados", 
+    "roadways": 1600.0, 
+    "area": 430.0
+  }, 
+  {
+    "percapita": 3300.0, 
+    "population": 584578.0, 
+    "name": "Solomon Islands", 
+    "roadways": 1360.0, 
+    "area": 28896.0
+  }, 
+  {
+    "percapita": 4000.0, 
+    "population": 523568.0, 
+    "name": "Cape Verde", 
+    "roadways": 1350.0, 
+    "area": 4033.0
+  }, 
+  {
+    "percapita": 14500.0, 
+    "population": 109574.0, 
+    "name": "Virgin Islands", 
+    "roadways": 1260.0, 
+    "area": 1910.0
+  }, 
+  {
+    "percapita": 12900.0, 
+    "population": 162178.0, 
+    "name": "Saint Lucia", 
+    "roadways": 1210.0, 
+    "area": 616.0
+  }, 
+  {
+    "percapita": 22100.0, 
+    "population": 89018.0, 
+    "name": "Antigua and Barbuda", 
+    "roadways": 1165.0, 
+    "area": 443.0
+  }, 
+  {
+    "percapita": 13300.0, 
+    "population": 109011.0, 
+    "name": "Grenada", 
+    "roadways": 1127.0, 
+    "area": 344.0
+  }, 
+  {
+    "percapita": 4900.0, 
+    "population": 227574.0, 
+    "name": "Vanuatu", 
+    "roadways": 1070.0, 
+    "area": 12189.0
+  }, 
+  {
+    "percapita": 1200.0, 
+    "population": 737284.0, 
+    "name": "Comoros", 
+    "roadways": 880.0, 
+    "area": 2235.0
+  }, 
+  {
+    "percapita": 11700.0, 
+    "population": 103537.0, 
+    "name": "Saint Vincent and the Grenadines", 
+    "roadways": 829.0, 
+    "area": 389.0
+  }, 
+  {
+    "percapita": 43800.0, 
+    "population": 52560.0, 
+    "name": "Cayman Islands", 
+    "roadways": 785.0, 
+    "area": 264.0
+  }, 
+  {
+    "percapita": 13600.0, 
+    "population": 73126.0, 
+    "name": "Dominica", 
+    "roadways": 780.0, 
+    "area": 751.0
+  }, 
+  {
+    "percapita": 7500.0, 
+    "population": 106146.0, 
+    "name": "Tonga", 
+    "roadways": 680.0, 
+    "area": 747.0
+  }, 
+  {
+    "percapita": 6200.0, 
+    "population": 101998.0, 
+    "name": "Kiribati", 
+    "roadways": 670.0, 
+    "area": 811.0
+  }, 
+  {
+    "percapita": 57000.0, 
+    "population": 94949.0, 
+    "name": "Jersey", 
+    "roadways": 576.0, 
+    "area": 116.0
+  }, 
+  {
+    "percapita": 15000.0, 
+    "population": 142180.0, 
+    "name": "Curacao", 
+    "roadways": 550.0, 
+    "area": 444.0
+  }, 
+  {
+    "percapita": 12500.0, 
+    "population": 44582.0, 
+    "name": "Northern Mariana Islands", 
+    "roadways": 536.0, 
+    "area": 464.0
+  }, 
+  {
+    "percapita": 24700.0, 
+    "population": 90024.0, 
+    "name": "Seychelles", 
+    "roadways": 508.0, 
+    "area": 455.0
+  }, 
+  {
+    "percapita": 30300.0, 
+    "population": 49483.0, 
+    "name": "Faroe Islands", 
+    "roadways": 463.0, 
+    "area": 1393.0
+  }, 
+  {
+    "percapita": 69900.0, 
+    "population": 69080.0, 
+    "name": "Bermuda", 
+    "roadways": 447.0, 
+    "area": 54.0
+  }, 
+  {
+    "percapita": 55400.0, 
+    "population": 3140.0, 
+    "name": "Falkland Islands (Islas Malvinas)", 
+    "roadways": 440.0, 
+    "area": 12173.0
+  }, 
+  {
+    "percapita": 33000.0, 
+    "population": 578025.0, 
+    "name": "Macau", 
+    "roadways": 413.0, 
+    "area": 28.0
+  }, 
+  {
+    "percapita": 2000.0, 
+    "population": 183176.0, 
+    "name": "Sao Tome and Principe", 
+    "roadways": 320.0, 
+    "area": 964.0
+  }, 
+  {
+    "percapita": 9100.0, 
+    "population": 10777.0, 
+    "name": "Cook Islands", 
+    "roadways": 320.0, 
+    "area": 236.0
+  }, 
+  {
+    "percapita": 37200.0, 
+    "population": 85082.0, 
+    "name": "Andorra", 
+    "roadways": 320.0, 
+    "area": 468.0
+  }, 
+  {
+    "percapita": 36200.0, 
+    "population": 32140.0, 
+    "name": "San Marino", 
+    "roadways": 292.0, 
+    "area": 61.0
+  }, 
+  {
+    "percapita": 8000.0, 
+    "population": 68061.0, 
+    "name": "American Samoa", 
+    "roadways": 241.0, 
+    "area": 199.0
+  }, 
+  {
+    "percapita": 2200.0, 
+    "population": 106487.0, 
+    "name": "Micronesia, Federated States of", 
+    "roadways": 240.0, 
+    "area": 702.0
+  }, 
+  {
+    "percapita": 38500.0, 
+    "population": 31148.0, 
+    "name": "British Virgin Islands", 
+    "roadways": 200.0, 
+    "area": 151.0
+  }, 
+  {
+    "percapita": 2500.0, 
+    "population": 7728.0, 
+    "name": "Saint Helena, Ascension, and Tristan da Cunha", 
+    "roadways": 198.0, 
+    "area": 308.0
+  }, 
+  {
+    "percapita": 12200.0, 
+    "population": 15423.0, 
+    "name": "Anguilla", 
+    "roadways": 175.0, 
+    "area": 91.0
+  }, 
+  {
+    "percapita": 11500.0, 
+    "population": 46335.0, 
+    "name": "Turks and Caicos Islands", 
+    "roadways": 121.0, 
+    "area": 948.0
+  }, 
+  {
+    "percapita": 5800.0, 
+    "population": 1269.0, 
+    "name": "Niue", 
+    "roadways": 120.0, 
+    "area": 260.0
+  }, 
+  {
+    "percapita": 7000.0, 
+    "population": 5831.0, 
+    "name": "Saint Pierre and Miquelon", 
+    "roadways": 117.0, 
+    "area": 242.0
+  }, 
+  {
+    "percapita": 8400.0, 
+    "population": 394451.0, 
+    "name": "Maldives", 
+    "roadways": 88.0, 
+    "area": 298.0
+  }, 
+  {
+    "population": 2182.0, 
+    "name": "Norfolk Island", 
+    "roadways": 80.0, 
+    "area": 36.0
+  }, 
+  {
+    "population": 30510.0, 
+    "name": "Monaco", 
+    "roadways": 77.0, 
+    "area": 2.0
+  }, 
+  {
+    "percapita": 15400.0, 
+    "population": 37429.0, 
+    "name": "Sint Maarten", 
+    "roadways": 53.0, 
+    "area": 34.0
+  }, 
+  {
+    "percapita": 43000.0, 
+    "population": 29034.0, 
+    "name": "Gibraltar", 
+    "roadways": 29.0, 
+    "area": 7.0
+  }, 
+  {
+    "percapita": 5000.0, 
+    "population": 9378.0, 
+    "name": "Nauru", 
+    "roadways": 24.0, 
+    "area": 21.0
+  }, 
+  {
+    "population": 596.0, 
+    "name": "Cocos (Keeling) Islands", 
+    "roadways": 22.0, 
+    "area": 14.0
+  }, 
+  {
+    "percapita": 3400.0, 
+    "population": 10619.0, 
+    "name": "Tuvalu", 
+    "roadways": 8.0, 
+    "area": 26.0
+  }, 
+  {
+    "population": 30959.0, 
+    "name": "Saint Martin", 
+    "area": 54.0
+  }, 
+  {
+    "percapita": 44600.0, 
+    "population": 65345.0, 
+    "name": "Guernsey", 
+    "area": 78.0
+  }, 
+  {
+    "percapita": 21800.0, 
+    "population": 107635.0, 
+    "name": "Aruba", 
+    "area": 180.0
+  }, 
+  {
+    "name": "United States Pacific Island Wildlife Refuges", 
+    "area": 22.0
+  }, 
+  {
+    "percapita": 3800.0, 
+    "population": 15453.0, 
+    "name": "Wallis and Futuna", 
+    "area": 142.0
+  }, 
+  {
+    "name": "South Georgia and South Sandwich Islands", 
+    "area": 3903.0
+  }, 
+  {
+    "population": 836.0, 
+    "name": "Holy See (Vatican City)", 
+    "area": 0.0
+  }, 
+  {
+    "name": "Saint Barthelemy", 
+    "population": 7332.0
+  }, 
+  {
+    "name": "Ashmore and Cartier Islands", 
+    "area": 5.0
+  }, 
+  {
+    "percapita": 34000.0, 
+    "name": "European Union"
+  }, 
+  {
+    "percapita": 36500.0, 
+    "population": 57695.0, 
+    "name": "Greenland", 
+    "area": 2166086.0
+  }, 
+  {
+    "population": 1710257.0, 
+    "name": "Gaza Strip", 
+    "area": 360.0
+  }, 
+  {
+    "name": "Jan Mayen", 
+    "area": 377.0
+  }, 
+  {
+    "percapita": 2500.0, 
+    "population": 522928.0, 
+    "name": "Western Sahara", 
+    "area": 266000.0
+  }, 
+  {
+    "name": "Heard Island and McDonald Islands", 
+    "area": 412.0
+  }, 
+  {
+    "name": "Coral Sea Islands", 
+    "area": 3.0
+  }, 
+  {
+    "percapita": 1000.0, 
+    "population": 1368.0, 
+    "name": "Tokelau", 
+    "area": 12.0
+  }, 
+  {
+    "percapita": 8100.0, 
+    "population": 21032.0, 
+    "name": "Palau", 
+    "area": 459.0
+  }, 
+  {
+    "population": 1970.0, 
+    "name": "Svalbard", 
+    "area": 62045.0
+  }, 
+  {
+    "population": 48.0, 
+    "name": "Pitcairn Islands", 
+    "area": 47.0
+  }, 
+  {
+    "name": "Clipperton Island", 
+    "area": 6.0
+  }, 
+  {
+    "name": "Navassa Island", 
+    "area": 5.0
+  }, 
+  {
+    "population": 15700.0, 
+    "name": "Akrotiri", 
+    "area": 123.0
+  }, 
+  {
+    "name": "Spratly Islands", 
+    "area": 5.0
+  }, 
+  {
+    "name": "Wake Island", 
+    "area": 7.0
+  }, 
+  {
+    "name": "Bouvet Island", 
+    "area": 49.0
+  }, 
+  {
+    "population": 15700.0, 
+    "name": "Dhekelia", 
+    "area": 131.0
+  }, 
+  {
+    "name": "British Indian Ocean Territory", 
+    "area": 54400.0
+  }, 
+  {
+    "percapita": 3400.0, 
+    "population": 5164.0, 
+    "name": "Montserrat", 
+    "area": 102.0
+  }, 
+  {
+    "population": 10625176.0, 
+    "name": "South Sudan", 
+    "area": 644329.0
+  }, 
+  {
+    "name": "French Southern and Antarctic Lands", 
+    "area": 55.0
+  }
+]
