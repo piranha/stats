@@ -44,7 +44,10 @@ function main() {
         chart.append('svg:g').call(yAxis);
         chart.append('svg:path').attr('d', line(data));
 
-        var circles = chart.append('svg:g').selectAll('.data-point').data(data).enter()
+        var circles = chart.append('svg:g')
+            .selectAll('.data-point')
+            .data(data)
+            .enter()
             .append('svg:circle')
             .attr('class', 'data-point')
             .attr('cx', function(d, i) {
@@ -56,8 +59,8 @@ function main() {
             .attr('r', 4);
 
         circles
-            .on('mouseover', function(d) {
-                label.text(d.name + ': ' + d.railways + ' km');
+            .on('mouseover', function(d, i) {
+                label.text((i + 1) + '. ' + d.name + ': ' + d.railways + ' km');
             })
             .on('mouseout', function() {
                 label.text('');
@@ -65,6 +68,6 @@ function main() {
 
         label = chart.append('svg:text')
             .attr('x', 1000)
-            .attr('y', 200);
+            .attr('y', 150);
     });
 }
